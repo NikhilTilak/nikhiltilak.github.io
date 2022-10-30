@@ -18,6 +18,15 @@ Links: [GitHub repository](https://github.com/data-dart/bookend), [App](https://
 * Presented the results to judges from industry and others in a short video format.
 * Team won first place among twenty-six teams at the Erdos Institute Data Science Bootcamp (2020).
 
+<h2>IMDB movie reviews sentiment analysis</h2>
+Links: [Kaggle kernel](https://www.kaggle.com/code/nikhiltilak/imdb-revs)
+
+* The dataset from Kaggle contains 50,000 movie reviews labelled according to the sentiment.
+* Trained a neural network to predict if a given movie review is “positive” or “negative”.
+* Used a word2vec model trained on the reviews to generate word embeddings.
+* Model achieved 87% accuracy. 
+* This can be used for sentiment analysis of other text data such as restaurant reviews, tweets, news articles etc.
+
 <h2>BreweryXplorer</h2>
 
 Links: [GitHub repository](https://github.com/NikhilTilak/BreweryExplorer), [Dashboard](https://brewxplorer2.herokuapp.com/)
