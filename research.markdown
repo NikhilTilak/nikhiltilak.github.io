@@ -36,7 +36,7 @@ The STM system used for my research is entirely homebuilt. It is capable of oper
 
 <p float="left">
   <img src="../assets/assembly.png" width="200" />
-  <img src="../assets/insert.png" width="200" /> 
+  <img src="../assets/Insert.png" width="200" /> 
   <img src="../assets/in_use.png" width="200" />
 </p>
 
