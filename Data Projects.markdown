@@ -5,6 +5,19 @@ permalink: /DS-projects/
 order: 3
 ---
 
+<h2>Sudoku Solver</h2>
+
+Links: [GitHub repository](https://github.com/NikhilTilak/sudoku-solver)
+
+<p float="center">
+  <img src="../assets/solver_v1.jpg" width="800" />
+</p>
+
+* Solve a Sudoku puzzle correctly given an image.
+* A custom image processing pipeline splits the Sudoku into one image per cell (81 images total).
+* A neural network trained on images of printed digits, then identifies the filled in digits and generates a sudoku object.
+* The Sudoku is then solved using a straightforward algorithm.
+* version 2 can take as input images of printed Sudokus taken with a phone which can be at an arbitrary angle.
 
 <h2>Bookend</h2>
 
@@ -17,6 +30,7 @@ Links: [GitHub repository](https://github.com/data-dart/bookend), [App](https://
 * Extracted text features and implemented a bag-of-words model which gave the highest prediction accuracy score (85%) among the models considered.
 * Presented the results to judges from industry and others in a short video format.
 * Team won first place among twenty-six teams at the Erdos Institute Data Science Bootcamp (2020).
+
 
 <h2>IMDB movie reviews sentiment analysis</h2>
 Links: [Kaggle kernel](https://www.kaggle.com/code/nikhiltilak/imdb-revs)
