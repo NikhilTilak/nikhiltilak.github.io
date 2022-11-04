@@ -7,7 +7,7 @@ order: 2
 
 <h2> Lead-author projects</h2>
 
-<h3> Flat-band Carrier Confinement Magic Angle Twisted Bilayer Graphene</h3>
+<h3> Flat-band Carrier Confinement in Magic Angle Twisted Bilayer Graphene</h3>
 
 <p float="center">
   <img src="../assets/MATBG.png" width="700" />
