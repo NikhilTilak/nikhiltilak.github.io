@@ -5,8 +5,8 @@
 layout: page
 ---
 
-<h3>Hello! My name is Nikhil Tilak. Thanks for visiting my website.</h3>
-
+<h3>Hello! My name is Nikhil Tilak.</h3>
+<h4>I'm wrapping up a PhD in physics, and am looking for new opportunities at the intersection of Physics, Mathematics, and Data Science. To learn more about me, see the tabs above or check out my resume.</h4>
 
 I am a PhD candidate in the Department of Physics and Astronomy at Rutgers University in [Prof. Eva Andrei](https://physics.rutgers.edu/people/faculty-list/faculty-profile/andrei-eva-y)'s group. My research focusses on the electronic properties of two-dimensional materials such as [Graphene](https://en.wikipedia.org/wiki/Graphene) and   [Molybdenum Disulfide](https://en.wikipedia.org/wiki/Molybdenum_disulfide). Most recently I have been studying devices made from marginally twisted heterostructures made from these materials and probing them using my homebuilt Scanning Tunneling Microscope and other experimental techniques. You can checkout some of my published peer-reviewed works on my [google-scholar profile](https://scholar.google.com/citations?user=ehlgV_0AAAAJ&hl=en) or checkout my research page above. 
 
@@ -20,4 +20,4 @@ My most recent project is a [Sudoku-Solver](https://github.com/NikhilTilak/sudok
 
 Some of my other fun projects include [BrewXplorer](https://brewxplorer2.herokuapp.com/), an interactive app which lets you explore 3000+ breweries in the United States.
 
-I will be defending soon. Given the broad range of skills and experiences I have gained during my PhD, I am currently looking for positions which are at the intersection of Physics, Mathematics and Data Science. 
+

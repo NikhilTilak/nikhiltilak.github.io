@@ -7,21 +7,19 @@ order: 3
 
 <h2>Sudoku Solver</h2>
 
-Links: [GitHub repository](https://github.com/NikhilTilak/sudoku-solver)
+Links: [GitHub repository](https://github.com/NikhilTilak/sudoku-solver), [App](https://sudoku-solver-2ik3k7t6qq-uk.a.run.app/)
 
 <p float="center">
   <img src="../assets/solver_v1.jpg" width="800" />
 </p>
 
-* Solve a Sudoku puzzle correctly given an image.
-* A custom image processing pipeline splits the Sudoku into one image per cell (81 images total).
-* A neural network trained on images of printed digits, then identifies the filled in digits and generates a sudoku object.
-* The Sudoku is then solved using a straightforward algorithm.
-* version 2 can take as input images of printed Sudokus taken with a phone which can be at an arbitrary angle.
+* Created an application to solve a Sudoku puzzle correctly given its image as input. 
+*	Wrote a custom pipeline which processes the image, identifies the filled digits using OCR and a neural network and produces a solution. 
+*	Deployed a Docker containerized Dash/Plotly app to Google Cloud (GCP).
 
 <h2>Bookend</h2>
 
-Links: [GitHub repository](https://github.com/data-dart/bookend), [App](https://bookend-data-dart.herokuapp.com/)
+Links: [GitHub repository](https://github.com/data-dart/bookend)
 
 <iframe width="632" height="350" src="https://www.youtube.com/embed/P1Sq7T9PvP0" title="bookend: a text classifier" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -37,7 +35,7 @@ Links: [Kaggle kernel](https://www.kaggle.com/code/nikhiltilak/imdb-revs)
 
 * The dataset from Kaggle contains 50,000 movie reviews labelled according to the sentiment.
 * Trained a neural network to predict if a given movie review is “positive” or “negative”.
-* Used a word2vec model trained on the reviews to generate word embeddings.
+* Used a word2vec model trained on the reviews to generate semantic word embeddings which were used as features to a neural network.
 * Model achieved 87% accuracy. 
 * This can be used for sentiment analysis of other text data such as restaurant reviews, tweets, news articles etc.
 
@@ -49,6 +47,7 @@ Links: [GitHub repository](https://github.com/NikhilTilak/BreweryExplorer), [Das
   <img src="../assets/brewxplorer.png" width="800" />
 </p>
 
-* Browse and search 3000+ breweries and pubs in the Unites States.
-* Scraped and cleaned unstructured brewery data gathered from Wikipedia and other sources.
-* Designed an interactive Dashboard using Dash/Plotly which was deployed to Heroku.
+* Designed and deployed an interactive web app that lets users browse and search 3000+ breweries and pubs in the United States. 
+* Scraped and cleaned unstructured brewery data gathered from Wikipedia and other web sources.
+*	Designed an interactive Dashboard using Dash/Plotly which was deployed to Heroku.
+
