@@ -1,56 +1,65 @@
 ---
 layout: page
-title: Research
+title: Research Projects
 permalink: /research/
 order: 2
 ---
 
-<h2> Lead-author projects</h2>
+I am a PhD candidate in the Department of Physics and Astronomy at Rutgers University in the [Andrei Lab](https://www.physics.rutgers.edu/~eandrei/) at Rutgers. My research focusses on the electronic properties of van Der Waals materials such as [Graphene](https://en.wikipedia.org/wiki/Graphene) and   [Molybdenum Disulfide](https://en.wikipedia.org/wiki/Molybdenum_disulfide). A full list of my published peer-reviewed works is available here [google-scholar profile](https://scholar.google.com/citations?user=ehlgV_0AAAAJ&hl=en). 
 
-<h3> Flat-band Carrier Confinement in Magic Angle Twisted Bilayer Graphene</h3>
+<h3> <b>Moiré potentials, lattice relaxation and layer polarization in marginally twisted MoS2 bilayers.</b></h3>
+
+<p float="left">
+  <img src="../assets/MoS2.png" width="300" />
+  <img src="../assets/MoS2sumary.png" width="400" />
+</p>
+
+
+<div style="background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc;">
+		<p style="color: black;"><u>Tilak, Nikhil</u>, Guohong Li, Takashi Taniguchi, Kenji Watanabe, and Eva Y. Andrei. "Moiré Potential, Lattice Relaxation, and Layer Polarization in Marginally Twisted MoS2 Bilayers." Nano Letters (2022) <a href = "https://pubs.acs.org/doi/10.1021/acs.nanolett.2c03676">link</a></p>
+</div>
+
+<h3> <b>Flat-band Carrier Confinement in Magic Angle Twisted Bilayer Graphene</b></h3>
 
 <p float="center">
   <img src="../assets/MATBG.png" width="700" />
 </p>
 
-Magic-angle twisted bilayer graphene has emerged as a powerful platform for studying strongly correlated electron physics, owing to its almost dispersionless low-energy bands and the ability to tune the band filling by electrostatic gating. Techniques to control the twist angle between graphene layers have led to rapid experimental progress but improving sample quality is essential for separating the delicate correlated electron physics from disorder effects. Owing to the 2D nature of the system and the relatively low carrier density, the samples are highly susceptible to small doping inhomogeneity which can drastically modify the local potential landscape. This potential disorder is distinct from the twist angle variation which has been studied elsewhere. Here, by using low temperature scanning tunneling spectroscopy and planar tunneling junction measurements, we demonstrate that flat bands in twisted bilayer graphene can amplify small doping inhomogeneity that surprisingly leads to carrier confinement, which in graphene could previously only be realized in the presence of a strong magnetic field.
+<div style="background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc;">
+		<p style="color: black;"><u>Tilak, Nikhil</u>, Xinyuan Lai, Shuang Wu, Zhenyuan Zhang, Mingyu Xu, Raquel de Almeida Ribeiro, Paul C. Canfield, and Eva Y. Andrei. "Flat band carrier confinement in magic-angle twisted bilayer graphene." Nature communications 12, no. 1 (2021): 4180  <a href = "https://www.nature.com/articles/s41467-021-24480-3">link</a></p>
+</div>
 
-You can read the published article free of charge here [Nature Communications](https://www.nature.com/articles/s41467-021-24480-3).
-
-<h3> Moiré potentials, lattice relaxation and layer polarization in marginally twisted MoS2 bilayers.</h3>
-
-<p float="left">
-  <img src="../assets/MoS2.png" width="200" />
-  <img src="../assets/MoS2_2.png" width="200" />
-  <img src="../assets/MoS2_3.png" width="200" />
-</p>
-
-
-Artificially twisted heterostructures of semiconducting transition metal dichalcogenides (TMDs) offer unprecedented control over their electronic and optical properties via the spatial modulation of interlayer interactions and structural reconstruction. Here we study twisted MoS2 bilayers in a wide range of twist angles near 0° using Scanning Tunneling Microscopy/Spectroscopy. We investigate the twist angle-dependence of the moiré pattern which is dominated by lattice reconstruction for small angles (<2°) leading to large triangular domains with rhombohedral stacking.  Local spectroscopy measurements reveal a large moiré-potential strength of 100-200 meV for angles <3°. In reconstructed regions we see a bias-dependent asymmetry between neighboring triangular domains which we relate to the vertical polarization which is intrinsic to rhombohedral stacked TMDs. This viewpoint is further supported by spectroscopy maps and ambient Piezoresponse measurements. Our results provide a microscopic perspective on this new class of interfacial ferroelectrics and can offer clues for designing novel heterostructures which harness this effect.
-
-You can read the preprint here [Arxiv](https://arxiv.org/abs/2210.08368#).
-
-<h3> Homebuilt Scanning Tunneling Microscopy system </h3>
+<h3> <b>Low temperature Scanning Tunneling Microscopy system</b> </h3>
 
 The STM system used for my research is entirely homebuilt. It is capable of operating at 4.2 Kelvin. This involved making detailed CAD drawings for the insert, working with various vendors and the Rutgers Machine shop. Some of the major design considerations were keeping the heat load into the cryostat to a minimum to lower cryogen consumption. Special care was therefore taken when selecting materials and designing appropriate radiation baffles.
 
-<p float="left">
-  <img src="../assets/assembly.png" width="200" />
-  <img src="../assets/Insert.png" width="200" /> 
-  <img src="../assets/in_use.png" width="200" />
+<p float="center">
+  <img src="../assets/STM.png" width="700" />
 </p>
 
+<h3><b>Study of Charge Density Waves in 1T-TaS2</b></h3>
 
-<h1> Other contributions</h1>
+<p float="center">
+  <img src="../assets/TaS2.png" width="700" />
+</p>
 
-<h3> Study of Charge Density Waves in 1T-TaS2</h3>
+<div style="background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc;">
+		<p style="color: black;">Altvater, Michael A., <u>Nikhil Tilak</u>, Skandaprasad Rao, Guohong Li, Choong-Jae Won, Sang-Wook Cheong, and Eva Y. Andrei. "Charge Density Wave Vortex Lattice Observed in Graphene-Passivated 1T-TaS2 by Ambient Scanning Tunneling Microscopy." Nano Letters 21, no. 14 (2021): 6132-6138. <a href = "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c01655">link</a></p>
 
-The nearly commensurate charge density wave (CDW) excitations native to the transition-metal dichalcogenide crystal, 1T-TaS2, under ambient conditions are revealed by scanning tunneling microscopy (STM) and spectroscopy (STS) measurements of a graphene/TaS2 heterostructure. Surface potential measurements show that the graphene passivation layer prevents oxidation of the air-sensitive 1T-TaS2 surface. The graphene protective layer does not however interfere with probing the native electronic properties of 1T-TaS2 by STM/STS, which revealed that nearly commensurate CDW hosts an array of vortex-like topological defects. We find that these topological defects organize themselves to form a lattice with quasi-long-range order, analogous to the vortex Bragg glass in type-II superconductors but accessible in ambient conditions.
+    <p style="color: black;">Altvater, Michael A., <u>Nikhil Tilak</u>, Skandaprasad Rao, Guohong Li, Choong-Jae Won, Sang-Wook Cheong, and Eva Y. Andrei. "Observation of a topological defect lattice in the charge density wave of 1T-TaS2." Applied Physics Letters 119, no. 12 (2021): 121601.<a href = "https://aip.scitation.org/doi/abs/10.1063/5.0059662">link</a></p>
 
-You can read the published article here [Nano Letters](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c01655) and [Appl. Phy. Letters](https://aip.scitation.org/doi/abs/10.1063/5.0059662).
+    <p style="color: black;">Altvater, Michael A., Sheng-Hsiung Hung, <u>Nikhil Tilak</u>, Choong-Jae Won, Guohong Li, Sang-Wook Cheong, Chung-Hou Chung, Horng-Tay Jeng, and Eva Y. Andrei. "Revealing the Charge Density Wave Proximity Effect in Graphene on 1T-TaS2." arXiv preprint arXiv:2201.09195 (2022).<a href = "https://arxiv.org/abs/2201.09195">link</a></p>
 
-<h3> Catalyst free growth of ZnO nanowires on graphene and graphene oxide and its enhanced photoluminescence and photoresponse</h3>
+</div>
 
-We demonstrate the graphene assisted catalyst free growth of ZnO nanowires (NWs) on chemical vapor deposited (CVD) and chemically processed graphene buffer layers at a relatively low growth temperature (580 °C) in the presence and absence of ZnO seed layers. In the case of CVD graphene covered with rapid thermal annealed ZnO buffer layer, the growth of vertically aligned ZnO NWs takes place, while the direct growth on CVD graphene, chemically derived graphene (graphene oxide and graphene quantum dots) without ZnO seed layer resulted in randomly oriented sparse ZnO NWs. Growth mechanism was studied from high resolution transmission electron microscopy and Raman spectroscopy of the hybrid structure. Further, we demonstrate strong UV, visible photoluminescence (PL) and enhanced photoconductivity (PC) from the CVD graphene–ZnO NWs hybrids as compared to the ZnO NWs grown without the graphene buffer layer. The evolution of crystalinity in ZnO NWs grown with ZnO seed layer and graphene buffer layer is correlated with the Gaussian line shape of UV and visible PL. This is further supported by the strong Raman mode at 438 cm−1 significant for the wurtzite phase of the ZnO NWs grown on different graphene substrates. The effect of the thickness of ZnO seed layers and the role of graphene buffer layers on the aligned growth of ZnO NWs and its enhanced PC are investigated systematically. Our results demonstrate the catalyst free growth and superior performance of graphene–ZnO NW hybrid UV photodetectors as compared to the bare ZnO NW based photodetectors.
 
-You can read the published article here [Nano Letters](https://iopscience.iop.org/article/10.1088/0957-4484/26/14/145601/meta)
+
+<h3> <b>Catalyst free growth of ZnO nanowires on graphene and graphene oxide and its enhanced photoluminescence and photoresponse</b></h3>
+
+<p float="center">
+  <img src="../assets/GrapheneZnO.png" width="700" />
+</p>
+
+<div style="background-color: #f0f0f0; padding: 10px; border: 1px solid #ccc;">
+		<p style="color: black;"><u>Biroju, Ravi K., <u>Nikhil Tilak</u>, Gone Rajender, S. Dhara, and P. K. Giri. "Catalyst free growth of ZnO nanowires on graphene and graphene oxide and its enhanced photoluminescence and photoresponse." Nanotechnology 26, no. 14 2015:145601.<a href = "https://iopscience.iop.org/article/10.1088/0957-4484/26/14/145601/meta">link</a> </p>
+</div>

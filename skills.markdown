@@ -5,7 +5,7 @@ permalink: /skills/
 order: 4
 ---
 
-<h3>Physics/Engineering</h3>
+<h3>Physics and Engineering</h3>
 
 - **Device fabrication**: e-beam Lithography (EBL), Thermal metal deposition, Reactive Ion Etching, Wet Etching of Silicon wafers.
 - **Characterization techniques**: Scanning Tunneling Microscopy, Scanning Probe Microscopy (AFM/KPFM/EFM/PFM), Raman Spectroscopy.
@@ -20,13 +20,13 @@ order: 4
 - **Statistics and math**: Hypothesis testing, A/B testing, bayesian inference, error analysis.
 
 
-<h3> Communication skills</h3>
+<h3> Communication </h3>
 
 - **Presentation** : Expert at making Powerpoint slides which leave an impression. 
 - **Writing** :  Record of publishing peer-reviewed papers in prestigious journals such as Nature Communications. 
 - **Teaching** : 1200+ hours of teaching experience at the high school level as a former tutor and 5 semesters of teaching at the undergraduate level.
 
-<h3> Leadership and Mentorship skills </h3>
+<h3> Leadership and Mentorship </h3>
 
 - Student representative on the Graduate Studies and Life Committee (AY 2018-19)
 - Vice President of the Physics and Astronomy Graduate Student Organization. (AY 2016-17)
