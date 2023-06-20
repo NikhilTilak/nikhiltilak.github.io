@@ -10,7 +10,7 @@ layout: page
       <img src="../assets/profpic.jpg" alt="Your Profile Picture" style="width: 200px;">
       <div style="margin-left: 20px;">
         <h1>Hello! My name is Nikhil Tilak.</h1>
-        <p>I'm wrapping up a PhD in Experimental Condensed Matter Physics at Rutgers University, New Jersey, USA. 
+        <p>I recently earned a PhD in Physics from Rutgers University, New Jersey, USA. I will be starting a Postdoctoral position soon.
         I am looking for new opportunities at the intersection of Physics, Engineering, and Data Science. 
         To learn more about me, press the tabs above.
         My socials are linked below. </p>

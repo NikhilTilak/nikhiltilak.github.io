@@ -12,5 +12,5 @@ order: 5
 
 [Data Science resume](..\assets\DSResume.pdf)
 
-[Research CV](..\assets\ResearchCV.pdf)
+[Research CV](..\assets\CV_nmt_0623.pdf)
 

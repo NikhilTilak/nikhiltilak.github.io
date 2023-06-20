@@ -5,7 +5,7 @@ permalink: /research/
 order: 2
 ---
 
-I am a PhD candidate in the Department of Physics and Astronomy at Rutgers University in the [Andrei Lab](https://www.physics.rutgers.edu/~eandrei/) at Rutgers. My research focusses on the electronic properties of van Der Waals materials such as [Graphene](https://en.wikipedia.org/wiki/Graphene) and   [Molybdenum Disulfide](https://en.wikipedia.org/wiki/Molybdenum_disulfide). A full list of my published peer-reviewed works is available here [google-scholar profile](https://scholar.google.com/citations?user=ehlgV_0AAAAJ&hl=en). 
+I recently earned a PhD from the Department of Physics and Astronomy at Rutgers University in the [Andrei Lab](https://www.physics.rutgers.edu/~eandrei/) at Rutgers. My research focusses on the electronic properties of van Der Waals materials such as [Graphene](https://en.wikipedia.org/wiki/Graphene) and   [Molybdenum Disulfide](https://en.wikipedia.org/wiki/Molybdenum_disulfide). A full list of my published peer-reviewed works is available here [google-scholar profile](https://scholar.google.com/citations?user=ehlgV_0AAAAJ&hl=en). 
 
 <h3> <b>Moiré potentials, lattice relaxation and layer polarization in marginally twisted MoS2 bilayers.</b></h3>
 
