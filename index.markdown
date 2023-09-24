@@ -62,10 +62,8 @@ layout: page
     <img src="../assets/profpic.jpg" alt="Your Profile Picture" class="profile-pic">
     <div class="profile-info">
       <h1>Hello! My name is Nikhil Tilak.</h1>
-      <p>I recently earned a PhD in Physics from Rutgers University, New Jersey, USA. I will be starting a Postdoctoral position soon.
-      I am looking for new opportunities at the intersection of Physics, Engineering, and Data Science. 
-      To learn more about me, press the tabs above.
-      My socials are linked below.</p>
+      <p>I'm a Postdoc in Physics with 8+ years of research experience. I'm an expert at device fabrication using e-beam lithography and characterization via tunneling and transport measurements. I'm highly skilled at analyzing data and summarizing findings. Furthermore, I'm experienced in numerical and machine learning techniques using Python and always working to expand my skill set. I'm currently open to process/yield engineering roles in the semiconductor industry as well as data scientist positions.
+      My CV is linked above. Feel free to reach out to me on LinkedIn or via email if you have a suitable opportunity and would like to know more.</p>
     </div>
   </div>
 </body>
