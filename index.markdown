@@ -62,7 +62,9 @@ layout: page
     <img src="../assets/profpic.jpg" alt="Your Profile Picture" class="profile-pic">
     <div class="profile-info">
       <h1>Hello! My name is Nikhil Tilak.</h1>
-      <p>I'm a Postdoc in Physics with 8+ years of research experience. I'm an expert at device fabrication using e-beam lithography and characterization via tunneling and transport measurements. I'm highly skilled at analyzing data and summarizing findings. Furthermore, I'm experienced in numerical and machine learning techniques using Python and always working to expand my skill set. I'm currently open to process/yield engineering roles in the semiconductor industry as well as data scientist positions.
+      <p>I’m a Postdoctoral associate in Physics at Rutgers University with 8+ years of experience in nanofabrication of devices and their
+characterization via electronic tunneling and transport measurements. I’m a quick-learner who thrives in a collaborative environment. I’m highly skilled at designing experiments, collecting and analyzing data, and presenting findings as evidenced by my 6 peer-reviewed journal publications and conference talks. Additionally, I am experienced in numerical and machine learning techniques using Python and am always working to expand my skill set. I’m currently seeking process/yield engineering roles in
+the semiconductor industry and data scientist/analyst positions <br>
       My CV is linked above. Feel free to reach out to me on LinkedIn or via email if you have a suitable opportunity and would like to know more.</p>
     </div>
   </div>
