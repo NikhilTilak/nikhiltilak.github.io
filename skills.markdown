@@ -7,23 +7,25 @@ order: 4
 
 <h3>Physics and Engineering</h3>
 
-- **Device fabrication**: e-beam Lithography (EBL), Thermal metal deposition, Reactive Ion Etching, Wet Etching of Silicon wafers.
-- **Characterization techniques**: Scanning Tunneling Microscopy, Scanning Probe Microscopy (AFM/KPFM/EFM/PFM), Raman Spectroscopy.
-- **Electronics**: Arduino, Circuit design, Soldering.
-- **Mechanical** : CAD (Fusion360), Machining (Milling, Lathe).
+- **Device fabrication**: Silicon wafer cleaning (RCA), nanofabrication using e-beam lithography (FEI Sirion, Hitachi SU5000), electron beam metal deposition (gold, chromium, titanium), reactive ion/plasma etching (gases: O2, CHF3), HF wet etching of silicon dioxide, wire bonding (West Bond).
+- **Characterization techniques**: Scanning tunneling microscopy (built my own system), electrostatic gating, I-V characterization, four-probe resistance measurement using lock-in amplifier (SR 830, Keithley 6221, 2100), atomic force microscopy (NT-MDT, Asylum Cypher), Kelvin probe force microscopy, Electrostatic force microscopy, Piezoresponse microscopy, force-distance spectroscopy, Raman spectroscopy (Renishaw), optical microscopy (Nikon).
+- **Vacuum and cryogenics**: Expert in design, construction, and maintenance of HV/UHV chambers and cryogenic temperature measurement apparatus. Helium leak detection (Agilent).
+- **Electronics & mechanical**: Soldering, Brazing, CAD (Fusion 360, AutoCAD), Machining (Drilling, Lathe, Milling), Arduino circuits.
 
 <h3>Programming/Data Analysis</h3>
 
-- **Programming/Scripting**: Python, C/C++, SQL, Excel, Mathematica, MATLAB, LabVIEW, IHDL.
+–	Machine learning: 
+
+- **Programming/Scripting & platforms**: Python, C/C++, SQL, Excel, Mathematica, MATLAB, LabVIEW, IHDL.
 - **Packages**: NumPy, SciPy, Pandas, Matplotlib, Scikit-Learn, Natural Language Toolkit, TensorFlow, skimage.
-- **Proficient in**: Data scraping and wrangling, Dashboards, ML models for classification, regression, clustering, outlier detection and forecasting. Natural language processing (NLP), Convolutional Neural Networks (CNNs), embeddings, sentiment analysis.
-- **Statistics and math**: Hypothesis testing, A/B testing, bayesian inference, error analysis.
+- **Machine learning**: Data scraping and wrangling, Dashboards, Linear/Logistic regression, KNN, SVM, PCA, Random Forests, XGBoost, NLP.
+- **Statistics and math**: Linear algebra, Hypothesis testing, bayesian inference, error analysis.
 
 
 <h3> Communication </h3>
 
-- **Presentation** : Expert at making Powerpoint slides which leave an impression. 
-- **Writing** :  Record of publishing peer-reviewed papers in prestigious journals such as Nature Communications. 
+- **Presentation** : 3+ talks at conferences.
+- **Writing** :  6+ peer-reviewed papers in prestigious journals such as Nature Communications. 
 - **Teaching** : 1200+ hours of teaching experience at the high school level as a former tutor and 5 semesters of teaching at the undergraduate level.
 
 <h3> Leadership and Mentorship </h3>
