@@ -14,8 +14,6 @@ order: 4
 
 <h3>Programming/Data Analysis</h3>
 
-–	Machine learning: 
-
 - **Programming/Scripting & platforms**: Python, C/C++, SQL, Excel, Mathematica, MATLAB, LabVIEW, IHDL.
 - **Packages**: NumPy, SciPy, Pandas, Matplotlib, Scikit-Learn, Natural Language Toolkit, TensorFlow, skimage.
 - **Machine learning**: Data scraping and wrangling, Dashboards, Linear/Logistic regression, KNN, SVM, PCA, Random Forests, XGBoost, NLP.
